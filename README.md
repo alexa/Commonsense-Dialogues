@@ -53,7 +53,7 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This repository is licensed under the CC-BY-NC-4.0 License.
+This repository is licensed under the CC-BY-NC 4.0 License.
 
 ## Citation
 
