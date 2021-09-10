@@ -1,5 +1,5 @@
 ## Commonsense-Dialogues Dataset
-  
+
 We present Commonsense-Dialogues, a crowdsourced dataset of ~11K dialogues grounded in social contexts involving utilization of commonsense. The social contexts used were sourced from the **train** split of the [SocialIQA](https://leaderboard.allenai.org/socialiqa/submissions/get-started) dataset, a multiple-choice question-answering based social commonsense reasoning benchmark.
 
 For the collection of the Commonsense-Dialogues dataset, each Turker was presented a social context and asked to write a dialogue of 4-6 turns between two people based on the event(s) described in the context. The Turker was asked to alternate between the roles of an individual referenced in the context and a 3rd party friend. See the following dialogues as examples:
@@ -35,10 +35,9 @@ For the collection of the Commonsense-Dialogues dataset, each Turker was present
 
 The data can be found in the `/data` directory of this repo. `train.json` has ~9K dialogues, `valid.json` and `test.json` have ~1K dialogues each. Since all the contexts were sourced from the **train** split of SocialIQA, it is imperative to note that any form of **multi-task** training and evaluation with Commonsense-Dialogues and SocialIQA must be done with caution to ensure fair and accurate conclusions.
 
-
 Some statistics about the data are provided below:
 
-|               Stat \ Split                   | Train | Valid | Test |
+|                   Stat                       | Train | Valid | Test |
 |                   ----                       | ----  | ----  | ---- |
 |# of dialogues                                | 9058  | 1157  | 1158 |
 |average # of turns in a dialogue              | 5.72  | 5.72  | 5.71 |
