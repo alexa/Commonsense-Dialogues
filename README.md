@@ -73,10 +73,8 @@ If you use this dataset, please cite the following paper:
     year = "2021",
     address = "Singapore and Online",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.sigdial-1.13",
-    pages = "121--132"
+    url = "https://arxiv.org/abs/2109.06427"
 }
 ```
 
 Note that the paper uses newly collected dialogues as well as those that were filtered from existing datasets. This repo contains our newly collected dialogues alone.
-
