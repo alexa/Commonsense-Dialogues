@@ -59,11 +59,22 @@ This repository is licensed under the CC-BY-NC 4.0 License.
 If you use this dataset, please cite the following paper:
 
 ```
-@article{zhoucommonsense,
-  title={Commonsense-Focused Dialogues for Response Generation: An Empirical Study},
-  author={Zhou, Pei and Gopalakrishnan, Karthik and Hedayatnia, Behnam and Kim, Seokhwan and Pujara, Jay and Ren, Xiang and Liu, Yang and Hakkani-Tur, Dilek},
-  journal={SIGDIAL},
-  year={2021}
+@inproceedings{zhou-etal-2021-commonsense,
+    title = "Commonsense-Focused Dialogues for Response Generation: An Empirical Study",
+    author = "Zhou, Pei  and
+      Gopalakrishnan, Karthik  and
+      Hedayatnia, Behnam  and
+      Kim, Seokhwan  and
+      Pujara, Jay  and
+      Ren, Xiang  and
+      Liu, Yang  and
+      Hakkani-Tur, Dilek",
+    booktitle = "Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+    year = "2021",
+    address = "Singapore and Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.sigdial-1.13",
+    pages = "121--132"
 }
 ```
 
